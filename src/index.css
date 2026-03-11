@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #FDF0F1; /* Светло-розовый фон всей страницы */
+  font-family: 'Playfair Display', serif; /* Или просто serif */
+}
+
+* {
+  box-sizing: inherit;
+}
